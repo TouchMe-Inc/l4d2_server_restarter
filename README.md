@@ -1,2 +1,2 @@
-# l4d2_server_restarter
-Restarts the server when all players have disconnected
+# About server_restarter
+Restarts the server when all players have disconnected.
